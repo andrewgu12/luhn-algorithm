@@ -1,4 +1,4 @@
-# EngagedMD Technical Challenge
+# Credit Card Validator
 -- 
 Built with React, Node.js, and Typescript.
 
